@@ -10,7 +10,7 @@ Di ZWCAD, buka command line (biasanya di bagian bawah jendela).
 Ketik VLIDE dan tekan Enter. Ini akan membuka Visual LISP Editor.
 
 ### Langkah 3: Salin Kode LISP
-Salin kode LISP 
+Salin kode [Auto Font Change](https://github.com/NEAR07/Program-AutoLisp-ZWCAD/blob/main/PROFILE/Auto%20Font%20Change/AFC%20Auto%20Font%20Change.LSP)
 
 ### Langkah 4: Tempel Kode ke Editor
 Di Visual LISP Editor, buat file baru dengan memilih File > New.
